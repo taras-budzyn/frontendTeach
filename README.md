@@ -13,24 +13,37 @@ At this repo we will try to collect there useful links and practice work (to con
     4. [Social media keys](http://ogp.me/)
   * Practice work
     1. [HTML basics](/materials/1.1_base_html_page.md)
-2. **HTML attributes, HTML interactive elements**
+2. **HTML most used elements and HTML attributes**
+  * Theory
+    1. [Basic](http://www.w3schools.com/tags/ref_standardattributes.asp)/[custom](http://www.w3schools.com/tags/ref_attributes.asp)/[data](http://www.w3schools.com/tags/att_global_data.asp) attributes of elements
+    2. Found and read the basic info about most used elements
+      1. h1..h6 heading elements
+      2. Section Divisions (div, p, br)
+      3. Images
+      4. Links
+      5. Lists (ul, li)
+  * Practice work
+3. **HTML tables and HTML interactive elements**
+  * Theory
+    1. Tables ([1](https://developer.mozilla.org/en/docs/Web/HTML/Element/table), [2](https://computerservices.temple.edu/creating-tables-html))
+    2. Forms ([Mozilla reference](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms), [Big detailed tutorial](http://learn.shayhowe.com/html-css/building-forms/))
+    3. [Iframes](http://html.com/tags/iframe/)
+  * Practice work
+4. **CSS basics**
   * Theory
   * Practice work
-3. **CSS basics**
+5. **CSS text formatting**
   * Theory
   * Practice work
-4. **CSS text formatting**
+6. **CSS blocks formatting**
   * Theory
   * Practice work
-5. **CSS blocks formatting**
+7. **HTML/CSS layout**
   * Theory
   * Practice work
-6. **HTML/CSS layout**
+8. **CSS media query**
   * Theory
   * Practice work
-7. **CSS media query**
-  * Theory
-  * Practice work
-8. **CSS animations**
+9. **CSS animations**
   * Theory
   * Practice work
