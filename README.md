@@ -23,6 +23,7 @@ At this repo we will try to collect there useful links and practice work (to con
       4. Links
       5. Lists (ul, li)
   * Practice work
+    1. [HTML basics elements](/materials/2.1_basic_html_elements.md)
 3. **HTML tables and HTML interactive elements**
   * Theory
     1. Tables ([1](https://developer.mozilla.org/en/docs/Web/HTML/Element/table), [2](https://computerservices.temple.edu/creating-tables-html))
