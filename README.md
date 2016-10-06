@@ -33,10 +33,21 @@ At this repo we will try to collect there useful links and practice work (to con
     1. [HTML tables, forms and iframes](/materials/3.1_tables_forms_iframes.md)
 4. **CSS basics**
   * Theory
+    1. [Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+      1. Syntax
+      2. [Measure units in CSS](http://www.w3schools.com/cssref/css_units.asp)
+      3. Margin, padding, border properties regarding blocks; width and height
+      4. [Selecting elements](http://www.w3schools.com/cssref/css_selectors.asp)
+    2. [Ways to add CSS to page](http://matthewjamestaylor.com/blog/adding-css-to-html-with-link-embed-inline-and-import)
+    3. Browser Dev tools ([Google](https://developer.chrome.com/devtools), [Firefox](https://developer.mozilla.org/en-US/docs/Tools/Tools_Toolbox))
   * Practice work
+    1. [Block indents, borders and width/height property](/materials/4.1_block_indents.md)
+    2. [Selecting elements](/materials/4.2_selecting_elements.md)
 5. **CSS text formatting**
   * Theory
+    1. [Text and font formatting](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
   * Practice work
+    1. [Stylize text](/materials/5.1_stylize_text.md)
 6. **CSS blocks formatting**
   * Theory
   * Practice work
