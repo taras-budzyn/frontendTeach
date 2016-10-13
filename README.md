@@ -51,7 +51,7 @@ At this repo we will try to collect there useful links and practice work (to con
 6. **CSS blocks formatting**
   * Theory
     1. Displaying elements and flow of page
-      1. [Block and inline](https://webdesignfromscratch.com/html-css/css-block-and-inline/)
+      1. [Display options](https://css-tricks.com/almanac/properties/d/display/)
       2. [Block, inline and inline-block](https://designshack.net/articles/css/whats-the-deal-with-display-inline-block/)
       3. [Understand float](https://css-tricks.com/all-about-floats/)
       4. Positioning ([1](http://www.barelyfitz.com/screencast/html-training/css/positioning/), [2](https://zellwk.com/blog/css-positions/), [3](http://learnlayout.com/position.html))
