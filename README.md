@@ -50,7 +50,14 @@ At this repo we will try to collect there useful links and practice work (to con
     1. [Stylize text](/materials/5.1_stylize_text.md)
 6. **CSS blocks formatting**
   * Theory
+    1. Displaying elements and flow of page
+      1. [Block and inline](https://webdesignfromscratch.com/html-css/css-block-and-inline/)
+      2. [Block, inline and inline-block](https://designshack.net/articles/css/whats-the-deal-with-display-inline-block/)
+      3. [Understand float](https://css-tricks.com/all-about-floats/)
+      4. Positioning ([1](http://www.barelyfitz.com/screencast/html-training/css/positioning/), [2](https://zellwk.com/blog/css-positions/), [3](http://learnlayout.com/position.html))
   * Practice work
+    1. [Create the page example 1](/materials/6.1_design_example.md)
+    2. [Create the page example 2](/materials/6.2_design_example.md)
 7. **HTML/CSS layout**
   * Theory
   * Practice work
