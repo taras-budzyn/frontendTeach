@@ -1,9 +1,9 @@
-#Materials to learn frontend from scratch
+# Materials to learn frontend from scratch
 
 At this repo we will try to collect there useful links and practice work (to consolidate the course materials).
 
 
-##Main plan
+## Main plan
 
 1. **HTML basics**
   * Theory
@@ -60,6 +60,7 @@ At this repo we will try to collect there useful links and practice work (to con
     2. [Create the page example 2](/materials/6.2_design_example.md)
 7. **HTML/CSS layout**
   * Theory
+    * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
   * Practice work
 8. **CSS media query**
   * Theory
